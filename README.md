@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d40a6cc5-49ad-4779-873f-78523893e882/deploy-status)](https://app.netlify.com/sites/theuiengineer/deploys)
+
 # Gatsby Starter Glass
 
 A Minimal & Beautiful Gatsby Personal Blog Starter With Nice Glassmorphism UI.
