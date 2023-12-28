@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `The UI Engineer`,
     author: {
       name: `Yinka Adedire`,
       summary: `Self-taught front-end web dev. JAMStack.`,
@@ -147,7 +147,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`Source Sans Pro`, `Poppins\:400,400i,700`],
+        fonts: [
+          `Source Sans Pro`,
+          `Poppins\:400,400i,700`,
+          `Noto Serif\:400,400i,700,300`,
+        ],
         display: "swap",
       },
     },
